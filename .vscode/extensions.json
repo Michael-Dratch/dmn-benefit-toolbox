@@ -1,14 +1,15 @@
 {
-    "recommendations": [
-        "kie-group.dmn-vscode-extension",
-        "rangav.vscode-thunder-client",
-        "redhat.vscode-xml",
-        "waderyan.gitblame",
-        "redhat.java",
-        "redhat.vscode-quarkus"
-    ],
-    "unwantedRecommendations": [
-        "vscjava.vscode-java-pack",
-        "kie-group.extended-services-vscode-extension"
-    ]
+  "recommendations": [
+    "kie-group.dmn-vscode-extension",
+    "devjpcb.business-automation-tools",
+    "rangav.vscode-thunder-client",
+    "redhat.vscode-xml",
+    "waderyan.gitblame",
+    "redhat.java",
+    "redhat.vscode-quarkus"
+  ],
+  "unwantedRecommendations": [
+    "vscjava.vscode-java-pack",
+    "kie-group.extended-services-vscode-extension"
+  ]
 }

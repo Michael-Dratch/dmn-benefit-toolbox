@@ -21,6 +21,7 @@
       "jellydn.toggle-excluded-files"
       "waderyan.gitblame"
       "kie-group.dmn-vscode-extension"
+      "devjpcb.business-automation-tools"
       "rangav.vscode-thunder-client"
       "redhat.vscode-xml"
       "mhutchie.git-graph"
